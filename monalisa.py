@@ -11,7 +11,7 @@ width, height = 400, 300  # Puedes ajustar estas dimensiones según necesites
 
 # Configuración de la ventana principal para la webcam
 root = Tk()
-root.title("Webcam y Mona Lisa")
+root.title("Webcam")
 
 lmain = Label(root)
 lmain.pack(side=LEFT)
